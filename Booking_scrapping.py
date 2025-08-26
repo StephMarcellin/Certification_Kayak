@@ -156,7 +156,8 @@ class BookingSpider(scrapy.Spider):
 filename = "Booking_results.csv"
 
 # If file already exists, delete it before crawling (because Scrapy will concatenate the last and new results otherwise)
-PATH = "C:\\Users\\marce\\OneDrive\\Documents\\Formation_JEDHA\\Fullstack\\09 -- Certification\\Kayak\\"
+PATH = "C:\\Users\\marce\\OneDrive\\Documents\\Formation_JEDHA\\Fullstack\\09 -- Certification\\Bloc 1\\Kayak\\"
+
 if filename in os.listdir(PATH):
         os.remove(PATH + filename)
 

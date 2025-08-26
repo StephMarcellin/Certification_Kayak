@@ -1,35 +1,35 @@
-,city,score_tendance_5jours
-0,Le Mont-Saint-Michel,80.0
-1,St Malo,80.0
-2,Bayeux,80.0
-3,Le Havre,80.0
-4,Rouen,69.0
-5,Paris,58.0
-6,Amiens,69.0
-7,Lille,69.0
-8,Strasbourg,69.0
-9,Chateau du Haut Koenigsbourg,69.0
-10,Colmar,69.0
-11,Eguisheim,69.0
-12,Besancon,47.0
-13,Dijon,58.0
-14,Annecy,25.0
-15,Grenoble,36.0
-16,Lyon,36.0
-17,Bormes les Mimosas,47.0
-18,Cassis,36.0
-19,Marseille,47.0
-20,Aix en Provence,36.0
-21,Avignon,36.0
-22,Uzes,36.0
-23,Nimes,47.0
-24,Aigues Mortes,47.0
-25,Saintes Maries de la mer,47.0
-26,Collioure,58.0
-27,Carcassonne,36.0
-28,Ariège,36.0
-29,Toulouse,36.0
-30,Montauban,36.0
-31,Biarritz,36.0
-32,Bayonne,36.0
-33,La Rochelle,47.0
+city,score_tendance_5jours
+Le Mont-Saint-Michel,73.0
+St Malo,73.0
+Bayeux,62.0
+Le Havre,69.0
+Rouen,84.0
+Paris,84.0
+Amiens,73.0
+Lille,69.0
+Strasbourg,47.0
+Chateau du Haut Koenigsbourg,47.0
+Colmar,58.0
+Eguisheim,58.0
+Besancon,62.0
+Dijon,58.0
+Annecy,66.0
+Grenoble,62.0
+Lyon,84.0
+Bormes les Mimosas,96.0
+Cassis,96.0
+Marseille,92.0
+Aix en Provence,92.0
+Avignon,84.0
+Uzes,84.0
+Nimes,84.0
+Aigues Mortes,96.0
+Saintes Maries de la mer,92.0
+Collioure,77.0
+Carcassonne,77.0
+Ariège,73.0
+Toulouse,84.0
+Montauban,73.0
+Biarritz,51.0
+Bayonne,62.0
+La Rochelle,77.0
